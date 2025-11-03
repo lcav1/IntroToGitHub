@@ -15,6 +15,6 @@ It includes examples of:
 - Images  
 - Links  
 
-The goal is to make your project easy to understand and use for others.
+The goal is to make this project easy to understand.
 
 ---
